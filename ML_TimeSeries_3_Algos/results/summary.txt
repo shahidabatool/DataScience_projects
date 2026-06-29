@@ -1,0 +1,8 @@
+Dataset: Kaggle - robikscube/hourly-energy-consumption
+Rows after feature engineering: 145,194
+Train rows: 116,155
+Test rows: 29,039
+Best model by MAE: Random Forest
+Best MAE: 303.0
+Best RMSE: 422.17
+Best R2: 0.9958
